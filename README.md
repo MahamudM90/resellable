@@ -1,4 +1,4 @@
-## Resellable Client (Assignment 12)
+## Resellable (Assignment 12)
 Resellable is ReSale seller proudcts type website and this is the `client side` of the website.
 
 ### Live Site
