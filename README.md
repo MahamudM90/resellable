@@ -5,11 +5,7 @@ Resellable is ReSale seller proudcts type website and this is the `client side` 
 [Resellable Client](https://reusable-a1665.web.app/) <br>
 [Resellable Server](https://reusable-k9mciiqr9-mahamudm90.vercel.app/)
 
-### Admin Information
 
-- Admin Email: mahamud@gmail.com
-
-- Admin Password: Mahamud123456@
 
 
 ### Features
