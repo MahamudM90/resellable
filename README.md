@@ -1,5 +1,5 @@
 ## Resellable (Assignment 12)
-Resellable is ReSale seller proudcts type website and this is the `client side` of the website.
+Resellable is Re-Sale seller proudcts type website and this is the `client side` of the website.
 
 ### Live Site
 [Resellable Client](https://reusable-a1665.web.app/) <br>
